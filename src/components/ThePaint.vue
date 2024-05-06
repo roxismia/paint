@@ -372,6 +372,7 @@ canvas {
   background-size: 60px;
 }
 
+
 .brash {
   width: 75px;
   height: 65px;
